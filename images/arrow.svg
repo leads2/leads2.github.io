@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="svg5037"
+   viewBox="0 0 68 16"
+   height="16"
+   width="68">
+  <defs
+     id="defs5039">
+    <linearGradient
+       id="linearGradient5611">
+      <stop
+         id="stop5613"
+         offset="0"
+         style="stop-color:#a7b0bc;stop-opacity:1" />
+      <stop
+         id="stop5615"
+         offset="1"
+         style="stop-color:#9fa9b6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="1110.0996"
+       x2="-664.96173"
+       y1="1120.9374"
+       x1="-665.12622"
+       id="linearGradient5617"
+       xlink:href="#linearGradient5611" />
+  </defs>
+  <metadata
+     id="metadata5042">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(719.91647,-1107.5185)"
+     id="layer1">
+    <path
+       id="path5596"
+       d="m -653.23972,1114.2346 c -6.12357,-1.6602 -12.35354,-4.2524 -17.23184,-6.4829 -2.03685,-0.9313 -3.34817,1.1698 -1.23195,2.0382 3.92817,1.612 7.69736,3.2123 11.37545,4.5723 -17.11378,0.5041 -41.14988,-0.5713 -57.7961,-0.7424 -2.57663,0.1119 -2.28384,3.9594 0.29275,3.8475 22.70801,-0.426 37.17283,-0.9989 57.69311,-1.0361 -3.07823,1.3582 -7.21409,3.2154 -10.78598,5.0692 -1.934,1.0038 -0.26399,2.739 1.60763,1.6954 5.20931,-2.9045 11.36058,-5.3929 16.13481,-6.6085 1.78683,-0.455 1.60255,-1.9025 -0.0579,-2.3527 z"
+       style="fill:url(#linearGradient5617);fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
