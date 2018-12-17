@@ -14,7 +14,7 @@ curl_setopt_array($curl, array(
   CURLOPT_CUSTOMREQUEST => "POST",
   CURLOPT_POSTFIELDS => "{\n  \"personalizations\": [\n    {\n      \"to\": [\n        {\n          \"email\": \"[Email Address to send Contact to]\"\n        }\n      ],\n      \"subject\": \"New Contact\"\n    }\n  ],\n  \"from\": {\n    \"email\": \"[FROM EMAIL]\"\n  },\n  \"content\": [\n    {\n      \"type\": \"text/html\",\n      \"value\": \"$name<br>$email<br>$subject<br>$message\"\n    }\n  ]\n}",
   CURLOPT_HTTPHEADER => array(
-    "authorization: Bearer [SG API key]",
+    "authorization: Bearer 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",
     "cache-control: no-cache",
     "content-type: application/json"
   ),
