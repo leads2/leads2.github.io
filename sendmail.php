@@ -9,7 +9,7 @@
 	*/
 
 	// You only need to modify the following three lines of code to customise your form to mail script.
-	$email_to = "you@yourdomain.com"; 			// Specify the email address you want to send the mail to.
+	$email_to = "ju3tin@hotmail.co.uk"; 			// Specify the email address you want to send the mail to.
 	$email_subject = "Feedback from website"; 	// Set the subject of your email.
 	// Specify a page on your website to display a thankyou message when the mail is sent
 	$thankyou_url = "http://www.yourdomain.com/thankyou.html";
