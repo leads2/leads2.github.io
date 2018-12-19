@@ -20,10 +20,8 @@
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
   ga('create', 'UA-75244109-1', 'auto');
   ga('send', 'pageview');
-
   </script>
 </head>
 <body>
@@ -210,40 +208,26 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
         $result = mysqli_query($con,$query);
         if($result){
             echo "<div class='form'>
-<h3>You are registered successfully.</h3>
-<br/>Click here to <a href='login.php'>Login</a></div>";
+<h3>Your Details Have Been Collected</h3>
+</div>";
         }
     }else{
 ?>
 <div class="form">
-<h1>Registration</h1>
-<form name="registration" action="" method="post">
-<input type="text" name="username" placeholder="Username" required />
-<input type="email" name="email" placeholder="Email" required />
-<input type="password" name="password" placeholder="Password" required />
-<input type="submit" name="submit" value="Register" />
-</form>
-</div>
+
+<form id="bottom_form" data-toggle="validator" class="shake" method="post">
+  <div class="form-group half">
+<input type="text" name="username" placeholder="Username" required /></div><div class="form-group half">
+<input type="email" name="email" placeholder="Email" required /></div><div class="form-group half">
+<input type="password" name="password" placeholder="Password" required /></div><div class="form-group half">
+<div class="form-group">
+                <button type="submit" class="btn btn-blue btn-lg btn-block">Get Started</button>
+              </div>
+</form></div></div>
 <?php } ?>
             
             
-            <form id="bottom_form" data-toggle="validator" class="shake">
-              <div class="form-group half">
-                <input class="form-control" type="text" id="firstname2" placeholder="First name" required="required" />
-              </div>
-              <div class="form-group half">
-                <input class="form-control" type="text" id="lastname2" placeholder="Last name" required="required" />
-              </div>
-              <div class="form-group">
-                <input class="form-control" type="email" id="email2" placeholder="Email address" required="required" />
-              </div>
-              <div class="form-group">
-                <input class="form-control" type="tel" pattern="(\+?\d[- .]*){7,13}" minlength="7" id="phone2" placeholder="Phone number" required="required" />
-              </div>
-              <div class="form-group">
-                <button type="submit" class="btn btn-blue btn-lg btn-block">Get Started</button>
-              </div>
-            </form>
+           
           </div>
         </div>
         <div class="row">
