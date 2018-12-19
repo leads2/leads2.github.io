@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -213,7 +211,7 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
         }
     }else{
 ?>
-<div class="form">
+
 
 <form id="bottom_form" data-toggle="validator" class="shake" method="post">
   <div class="form-group half">
@@ -223,7 +221,7 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
 <div class="form-group">
                 <button type="submit" class="btn btn-blue btn-lg btn-block">Get Started</button>
               </div>
-</form></div></div>
+</form></div>
 <?php } ?>
             
             
