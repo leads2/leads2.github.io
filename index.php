@@ -25,7 +25,7 @@
 <body>
 
 
-  <header id="header">
+  <header id="header">https://www.amazon.co.uk/Mpow-Retractable-Microphone-Cancelling-Conference-2-Black-02/dp/B07JNM5JG8/ref=sr_1_1_sspa?ie=UTF8&qid=1545657315&sr=8-1-spons&keywords=headset+with+microphone&psc=1
     <div class="container">
       <div class="float-xs-left" id="logo">
         <a href="/"><img class="image" src="img/logo.png" alt="High Risk Merchant Services" /></a>
@@ -214,7 +214,7 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
 <div class="form">
 <h1>Registration</h1>
 <form name="registration" action="" method="post">
-<input type="text" name="username" placeholder="Username" required />
+<input type="text" name="username" placeholder="First Name" required />
 <input type="email" name="email" placeholder="Email" required />
 <input type="password" name="password" placeholder="Password" required />
 <input type="submit" name="submit" value="Register" />
