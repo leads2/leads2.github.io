@@ -216,6 +216,7 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
 <form name="registration" action="" method="post">
 <input type="text" name="username" placeholder="First Name" required />
 <input type="email" name="email" placeholder="Email" required />
+	<input type="email" name="email" placeholder="Email" required />
 <input type="password" name="password" placeholder="Password" required />
 <input type="submit" name="submit" value="Register" />
 </form>
