@@ -8,7 +8,7 @@
   <meta name="title" content="1clickpayments Merchant Account Specialists | Full-Service Payment Processing" />
 	
 <meta property="og:title" content="1clickpayments"/>
-<meta property="og:image" content="https://davidwalsh.name/wp-content/themes/klass/img/facebooklogo.png"/>
+<meta property="og:image" content="http://1clickpayments.co.uk/img/logo.png"/>
 <meta property="og:site_name" content="1clickpayments"/>
 <meta property="og:description" content="1clickpayments Merchant Account Specialists | Full-Service Payment Processing"/>
 	
