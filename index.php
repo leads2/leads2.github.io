@@ -4,8 +4,15 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="Merchant Accounts simplified. 98% approval rating + low rates. See why thousands of clients trust us as their high risk provider."/>
-  <meta name="title" content="Merchant Account Specialists | Full-Service Payment Processing" />
+  <meta name="description" content="Merchant Accounts simplified. 98% approval rating + low rates."/>
+  <meta name="title" content="1clickpayments Merchant Account Specialists | Full-Service Payment Processing" />
+	
+<meta property="og:title" content="1clickpayments"/>
+<meta property="og:image" content="https://davidwalsh.name/wp-content/themes/klass/img/facebooklogo.png"/>
+<meta property="og:site_name" content="1clickpayments"/>
+<meta property="og:description" content="1clickpayments Merchant Account Specialists | Full-Service Payment Processing"/>
+	
+
   <title>Merchant Services</title>
   <link rel="shortcut icon" href="favicon.ico">
   <link rel="icon" href="favicon.ico">
