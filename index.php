@@ -32,7 +32,7 @@
 <body>
 
 
-  <header id="header">https://www.amazon.co.uk/Mpow-Retractable-Microphone-Cancelling-Conference-2-Black-02/dp/B07JNM5JG8/ref=sr_1_1_sspa?ie=UTF8&qid=1545657315&sr=8-1-spons&keywords=headset+with+microphone&psc=1
+  <header id="header">
     <div class="container">
       <div class="float-xs-left" id="logo">
         <a href="/"><img class="image" src="img/logo.png" alt="High Risk Merchant Services" /></a>
