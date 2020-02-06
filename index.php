@@ -102,11 +102,25 @@
                     <span class="form-group-addon icon icon-phone"></span>
                     <input class="form-control" type="text" name="name" id="phone" placeholder="Phone number" required="required" maxlength="12" />
                   </div>
-  <input type="submit" class="btn btn-blue btn-lg" value="Send">
+				  
+<div class="form-group">
+                    <span class="switch-label">Currently processing?</span>
+                    <label class="switch">
+                      <input class="input" type="checkbox" id="process">
+                      <span class="switch-indicator"></span>
+                      <span class="switch-state"></span>
+                    </label>
+                  </div>
+                  <div class="form-footer">
+                    <div class="form-notice text-xs-left"><a href="tel:+4402032061506" title="Call Us"><strong>+4402032061506</strong></a> <span class="hidden-md-down">or</span> </div>
+                    <div class="form-button text-xs-right"> <input type="submit" class="btn btn-blue btn-lg" value="SUBMIT"></div>
+                  </div>				  
+				  
+ 
 </form>
 			  
 			  
-                <form action="https://formspree.io/xyywpwbb" method="POST" id="top_form" class="shake">
+            <!--    <form action="https://formspree.io/xyywpwbb" method="POST" id="top_form" class="shake">
                   <div class="form-group">
                     <span class="form-group-addon icon icon-user"></span>
                     <input class="form-control" type="text" id="firstname" placeholder="First name" required="required" />
@@ -136,7 +150,7 @@
                     <div class="form-button text-xs-right"><button type="submit" class="btn btn-blue btn-lg">Submit</button></div>
                   </div>
                   <p class="form-legal">Your contact information will not be distributed</p>
-                </form>
+                </form>-->
               </div>
             </div>
           </div>
