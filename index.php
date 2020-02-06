@@ -88,8 +88,16 @@
                     <span class="form-group-addon icon icon-user"></span>
                     <input class="form-control" type="text" name="name" id="firstname" placeholder="First name" required="required" />
                   </div>
-  
-  <input type="email" name="_replyto">
+   <div class="form-group">
+                    <span class="form-group-addon icon icon-user"></span>
+                    <input class="form-control" type="text" name="name" id="lastname" placeholder="Last name" required="required" />
+                  </div>
+				  
+<div class="form-group">
+                    <span class="form-group-addon icon icon-mail"></span>
+                    <input class="form-control" name="_replyto" type="text" id="email" placeholder="Email address" required="required" />
+                  </div>				  
+ <!-- <input type="email" name="_replyto">-->
   <input type="submit" value="Send">
 </form>
 			  
