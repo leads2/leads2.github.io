@@ -83,7 +83,7 @@
               <div class="form">
 			  
 			  <form action="https://formspree.io/xyywpwbb" method="POST">
-  <input type="text" name="name">
+ <!-- <input type="text" name="name">-->
   <div class="form-group">
                     <span class="form-group-addon icon icon-user"></span>
                     <input class="form-control" type="text" name="name" id="firstname" placeholder="First name" required="required" />
@@ -98,7 +98,7 @@
                     <input class="form-control" name="_replyto" type="text" id="email" placeholder="Email address" required="required" />
                   </div>				  
  <!-- <input type="email" name="_replyto">-->
-  <input type="submit" value="Send">
+  <input type="submit" class="btn btn-blue btn-lg" value="Send">
 </form>
 			  
 			  
