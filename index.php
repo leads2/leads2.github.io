@@ -84,6 +84,11 @@
 			  
 			  <form action="https://formspree.io/xyywpwbb" method="POST">
   <input type="text" name="name">
+  <div class="form-group">
+                    <span class="form-group-addon icon icon-user"></span>
+                    <input class="form-control" type="text" name="name" id="firstname" placeholder="First name" required="required" />
+                  </div>
+  
   <input type="email" name="_replyto">
   <input type="submit" value="Send">
 </form>
