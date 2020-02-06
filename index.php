@@ -81,6 +81,14 @@
             <div class="form-cover">
               <h2 class="heading">Get Started</h2>
               <div class="form">
+			  
+			  <form action="https://formspree.io/xyywpwbb" method="POST">
+  <input type="text" name="name">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
+			  
+			  
                 <form  action="https://formspree.io/xyywpwbb" method="POST" id="top_form" data-toggle="validator" class="shake">
                   <div class="form-group">
                     <span class="form-group-addon icon icon-user"></span>
@@ -92,7 +100,7 @@
                   </div>
                   <div class="form-group">
                     <span class="form-group-addon icon icon-mail"></span>
-                    <input class="form-control" type="text" id="email" placeholder="Email address" required="required" />
+                    <input class="form-control" name="_replyto" type="text" id="email" placeholder="Email address" required="required" />
                   </div>
                   <div class="form-group">
                     <span class="form-group-addon icon icon-phone"></span>
