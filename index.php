@@ -107,7 +107,7 @@
                     </label>
                   </div>
                   <div class="form-footer">
-                    <div class="form-notice text-xs-left"><a href="tel:+442036552124" title="Call Us"><strong>(0203)6552124</strong></a> <span class="hidden-md-down">or</span> </div>
+                    <div class="form-notice text-xs-left"><a href="tel:+4402032061506" title="Call Us"><strong>+4402032061506</strong></a> <span class="hidden-md-down">or</span> </div>
                     <div class="form-button text-xs-right"><button type="submit" class="btn btn-blue btn-lg">Submit</button></div>
                   </div>
                   <p class="form-legal">Your contact information will not be distributed</p>
