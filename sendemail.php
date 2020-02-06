@@ -27,7 +27,7 @@
 		$mail->SMTPSecure = "ssl"; //TLS
 		$mail->Port = 465; //587
 
-		$mail->addAddress('hello@codingpassiveincome.com');
+		$mail->addAddress('ju3tin@hotmail.co.uk');
 		$mail->setFrom($email);
 		$mail->Subject = $subject;
 		$mail->isHTML(true);
