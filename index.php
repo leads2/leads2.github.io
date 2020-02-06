@@ -78,7 +78,7 @@
             </div>
           </div>
           <div class="col-md-6 col-lg-5 col-xl-4 offset-xl-1 text-xs-center text-md-right">
-            <div class="form-cover">
+          <!--  <div class="form-cover">
               <h2 class="heading">Get Started</h2>
               <div class="form">
                 <form id="top_form" data-toggle="validator" class="shake">
@@ -114,7 +114,7 @@
                 </form>
               </div>
             </div>
-          </div>
+          </div>-->
         </div>
       </div>
     </section>
