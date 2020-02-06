@@ -81,7 +81,7 @@
             <div class="form-cover">
               <h2 class="heading">Get Started</h2>
               <div class="form">
-                <form id="top_form" data-toggle="validator" class="shake">
+                <form  action="https://formspree.io/xyywpwbb" method="POST" id="top_form" data-toggle="validator" class="shake">
                   <div class="form-group">
                     <span class="form-group-addon icon icon-user"></span>
                     <input class="form-control" type="text" id="firstname" placeholder="First name" required="required" />
