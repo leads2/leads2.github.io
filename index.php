@@ -38,7 +38,7 @@
         <a href="/"><img class="image" src="img/logo.png" alt="High Risk Merchant Services" /></a>
       </div>
       <div class="float-xs-right" id="callus">
-        <p class="phone"><span class="pre">Call Us Today:</span> <a href="tel:+442086552124"> (0203) 655-2124</a></p>
+        <p class="phone"><span class="pre">Call Us Today:</span> <a href="tel:+4402032061506"> +4402032061506</a></p>
         <div id="availability" class="started">
           <div class="prop">Wait Time: <span id="waiting" class="value">0 minutes</span></div>
           <div class="prop">Available: <span id="agents" class="value">3 agents</span></div>
@@ -261,7 +261,7 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
           <div class="col-md-5 col-xl-3 text-md-right">
             <p class="contacts">
             <!--  <a class="link text-asph" href="/privacy/">privacy policy</a>-->
-              <span class="icon icon-email"></span> <a class="link" href="tel:+442036552124"> (0203) 655-2124</a>
+              <span class="icon icon-email"></span> <a class="link" href="tel:+4402032061506"> +4402032061506</a>
             </p>
           </div>
         </div>
