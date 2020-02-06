@@ -78,7 +78,7 @@
             </div>
           </div>
           <div class="col-md-6 col-lg-5 col-xl-4 offset-xl-1 text-xs-center text-md-right">
-          <!--  <div class="form-cover">
+            <div class="form-cover">
               <h2 class="heading">Get Started</h2>
               <div class="form">
                 <form id="top_form" data-toggle="validator" class="shake">
@@ -114,7 +114,7 @@
                 </form>
               </div>
             </div>
-          </div>-->
+          </div>
         </div>
       </div>
     </section>
@@ -192,7 +192,7 @@
         <p class="lead text-asph">Complete payment processing solutions for <em class="mark">thousands</em> of clients throughout Europe</p>
         <h2 class="h3 text-gray">We are Transparent, Reliable, and keep it simple!</h2>
         <div class="form-cover">
-          <div class="form">
+          <!--<div class="form">
             
             
             <?php
@@ -249,7 +249,7 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
               </div>
             </form>
           </div>
-        </div>
+        </div>-->
         <div class="row">
           <div class="col-md-7 col-xl-6 text-md-left">
             <p class="copy text-gray">2018 1ClickPayments.</p>
