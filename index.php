@@ -300,7 +300,7 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
           <div class="col-md-5 col-xl-3 text-md-right">
             <p class="contacts">
             <!--  <a class="link text-asph" href="/privacy/">privacy policy</a>-->
-              <span class="icon icon-email"></span> <a class="link" href="tel:+442032061506"> +442032061506</a>
+          <!--    <span class="icon icon-email"></span> <a class="link" href="tel:+442032061506"> +442032061506</a>-->
             </p>
           </div>
         </div>
