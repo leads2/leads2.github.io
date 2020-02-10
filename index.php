@@ -294,9 +294,9 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
             <p class="copy text-gray">2020 1ClickPayments.</p>
          <!--   <p class="disclaimer text-asph"></p>-->
           </div>
-          <div class="col-md-5 col-xl-3 text-xs-center text-md-left">
+        <!--  <div class="col-md-5 col-xl-3 text-xs-center text-md-left">
             <img class="img-fluid-auto" src="images/trust.png" alt=""/>
-          </div>
+          </div> -->
           <div class="col-md-5 col-xl-3 text-md-right">
             <p class="contacts">
             <!--  <a class="link text-asph" href="/privacy/">privacy policy</a>-->
