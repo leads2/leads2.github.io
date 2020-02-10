@@ -291,7 +291,7 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
         </div>
         --><div class="row">
           <div class="col-md-7 col-xl-6 text-md-left">
-            <p class="copy text-gray">2020 1ClickPayments.</p>
+            <p class="copy text-gray">&copy; 2020 1ClickPayments.</p>
          <!--   <p class="disclaimer text-asph"></p>-->
           </div>
         <!--  <div class="col-md-5 col-xl-3 text-xs-center text-md-left">
