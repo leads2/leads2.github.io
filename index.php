@@ -220,7 +220,7 @@
     <section class="section section-quotes">
       <div class="container">
         <blockquote class="quote">
-          <h2 class="text">When we were referred to 1ClickPayments, we were already processing with another company. Their team provided a cost breakdown and showed us how we could save come serious cash. After seeing the breakdown it was apparent we had to switch. The thing I really like about 1ClickPayments is the way they treat me; to me personalized service goes much farther than sheer cost.</h2>
+          <h2 class="text">When we were referred to 1ClickPayments, we were already processing with another company. Their team provided a cost breakdown and showed us how we could save come serious cash. After seeing the breakdown it was apparent we had to switch. The thing I really like about 1ClickPayments is the way they treat me; to me personalized service goes much further than sheer cost.</h2>
           <cite class="cite">Dennis M. – Sports/Retail</cite>
         </blockquote>
       </div>
